@@ -4,7 +4,7 @@ requirejs.config({
         jquery: 'libs/jquery-ui/js/jquery-1.7.2.min',
 	underscore : 'libs/underscore',
 	backbone: 'libs/backbone',
-	fx: 'libs/fx',
+	fx: 'libs/fx'
 	paper: 'libs/paper'
     },
 	
